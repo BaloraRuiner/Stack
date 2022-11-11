@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+P:\Repos\Stack\Deque.h(26): warning C4715: 'Deque::popHead': not all control paths return a value
+  Stack.vcxproj -> P:\Repos\Stack\x64\Debug\Stack.exe
